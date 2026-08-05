@@ -23,4 +23,4 @@ về cách tư duy như Hàm_Ackermann.
 Và con người là tư liệu giúp AI điều hướng
 đưa ra kết quả đúng ngữ cảnh bên ngoài.
   
-   Logicmoon22gmail.com
+   Logicmoon22@gmail.com
