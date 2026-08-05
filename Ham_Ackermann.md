@@ -17,5 +17,10 @@ Vậy việc mở rộng logic theo hướng này không sai – nó là một c
 Và chính điều này khiến ta phải đặt câu hỏi:
 Điều kiện dừng nằm ở đâu?
 Hay phải xuất hiện một lệnh từ ngoài hệ để dừng được vòng gọi vô tận này?
-   
+
+liên hệ với điều trên chúng ta có thể hướng AI
+về cách tư duy như Hàm_Ackermann.
+Và con người là tư liệu giúp AI điều hướng
+đưa ra kết quả đúng ngữ cảnh bên ngoài.
+  
    Logicmoon22gmail.com
